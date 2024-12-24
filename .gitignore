@@ -1,3 +1,5 @@
 ~$*.docx
 _REFS/*
 _LEGACY/*
+.vs/*
+.git/*
